@@ -92,3 +92,5 @@ Options
 Options to DQN are set within run_cpu (respectively, run_gpu). You may,
 for example, want to change the frequency at which information is output 
 to stdout by setting 'prog_freq' to a different value.
+
+[VIDEO & PATCH](https://www.youtube.com/watch?v=V1eYniJ0Rnk)
